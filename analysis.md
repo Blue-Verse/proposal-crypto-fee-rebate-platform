@@ -179,7 +179,7 @@ features:
 ## 6. 최종 산출물
 
 ### 제안서 사이트 URL
-https://blue-verse.github.io/proposal-crypto-fee-rebate-platform/
+https://proposal-crypto-fee-rebate-platform.pages.dev/
 
 ### 지원 금액
 22,500,000원
@@ -192,7 +192,7 @@ https://blue-verse.github.io/proposal-crypto-fee-rebate-platform/
 안녕하세요, 가상화폐 거래소 수수료 환급 비교 플랫폼 구축 프로젝트에 지원합니다.
 
 본 프로젝트에 대한 상세 제안서(견적서, 공수계산서, PRD, 일정, 포트폴리오)를 별도 페이지로 준비하였습니다. 아래 링크에서 확인해 주시면 감사하겠습니다.
-▶ 제안서 상세 페이지: https://blue-verse.github.io/proposal-crypto-fee-rebate-platform/
+▶ 제안서 상세 페이지: https://proposal-crypto-fee-rebate-platform.pages.dev/
 ▶ 위시켓 포트폴리오: https://www.wishket.com/partners/p/blueverse1/
 
 ---
